@@ -43,13 +43,7 @@
 
   <br/><br/>
 
-  <!-- Основная статистика профиля -->
-  <img align="center" alt="GitHub Stats" 
-       src="https://github-readme-stats.vercel.app/api?username=Aiflora&show_icons=true&include_all_commits=true&count_private=true&hide=issues&theme=default" />
 
-</details>
-<!-- Snake animation (опционально, красиво) -->
-<img src="https://github.com/Aiflora/Aiflora/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 
 
