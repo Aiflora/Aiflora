@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Aiflora)
 
-## I'm a FrontEnd Developer
+## I'm a QA Automation Engineer
 
 - 💪 I like to write code
 - 🎉 I love to paint and read books
