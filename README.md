@@ -32,20 +32,6 @@
 <br />
 <br />
 
-<details>
-  <summary>⚡ GitHub Statistics</summary>
-
-  <br/>
-
-  <!-- Самые используемые языки -->
-  <img align="center" alt="Top Languages" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiflora&langs_count=10&layout=compact&theme=default" />
-
-  <br/><br/>
-
-
-
-
 
 
 [linkedin]: https://www.linkedin.com/in/aigerim-kalil-869787267
