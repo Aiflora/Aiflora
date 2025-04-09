@@ -33,11 +33,22 @@
 <br />
 
 <details>
-  <summary>:zap: Statistics:</summary>
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiflora&langs_count=8&layout=compact" />
-    <br />
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Aiflora&show_icons=true" />
+  <summary>⚡ GitHub Statistics</summary>
+
+  <br/>
+
+  <!-- Самые используемые языки -->
+  <img align="center" alt="Top Languages" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiflora&langs_count=10&layout=compact&theme=default" />
+
+  <br/><br/>
+
+  <!-- Основная статистика профиля -->
+  <img align="center" alt="GitHub Stats" 
+       src="https://github-readme-stats.vercel.app/api?username=Aiflora&show_icons=true&include_all_commits=true&count_private=true&hide=issues&theme=default" />
+
 </details>
+
 
 
 
